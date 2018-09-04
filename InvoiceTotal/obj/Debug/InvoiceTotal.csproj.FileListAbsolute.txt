@@ -1,0 +1,10 @@
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\ameya\source\repos\chapter 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
